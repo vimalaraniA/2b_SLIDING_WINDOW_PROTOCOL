@@ -1,7 +1,7 @@
-NAME : Preethika N       
-REG NO : 212223040130
+NAME : Vimala Rani A      
+REG NO : 212223040240
 
-# 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+
 ## AIM  
 
 To write a python program to perform sliding window protocol
